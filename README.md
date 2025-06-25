@@ -1,12 +1,120 @@
-# React + Vite
+# 🦷 Dental Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple, responsive dental clinic website built using **React** and **Tailwind CSS**. It was developed to practice modern frontend tools, component-based architecture, and styling with Tailwind.
 
-Currently, two official plugins are available:
+## 📸 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> The site includes sections such as:
+- Header & Hero Section
+- Services Offered
+- About the Clinic
+- Tips and Advice
+- Book an Appointment Form
+- Patient Testimonials
+- Footer
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎥 Live Demo
+
+Watch a short video of the website in action:
+
+[![Watch the demo]]((https://youtu.be/G4Nqytm9gcA))
+
+---
+
+## 🚀 Technologies Used
+
+- [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/) – for fast React development
+- JSX components architecture
+
+## 🧱 Project Structure
+
+```
+src/
+│
+├── components/
+│   ├── About.jsx
+│   ├── BookAppointment.jsx
+│   ├── Footer.jsx
+│   ├── Header.jsx
+│   ├── Hero.jsx
+│   ├── Services.jsx
+│   ├── Testimonials.jsx
+│   └── Tips.jsx
+│
+├── App.jsx         # Main component rendering all sections
+├── index.css       # Tailwind directives + custom CSS
+└── main.jsx        # React entry point
+```
+
+## 🛠️ Setup & Installation
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/Mouad852/dental-landing-page.git
+cd dental-landing-page
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the dev server
+
+```bash
+npm run dev
+```
+
+Your app should now be running at `http://localhost:5173`.
+
+## 🧪 Learnings
+
+This project helped reinforce:
+- Using **Tailwind utility classes** for layout and design
+- Creating **reusable components** in React
+- Structuring a full single-page app with multiple sections
+- Styling forms and layout with minimal custom CSS
+
+## 🖼️ Screenshots
+
+Include screenshots here if needed using Markdown:
+
+```md
+![Hero Section](./screenshots/hero.png)
+![Appointment Form](./screenshots/appointment.png)
+```
+
+## 📦 Build
+
+To create an optimized production build:
+
+```bash
+npm run build
+```
+
+---
+
+## 📌 Future Improvements
+
+- Add routing (e.g. React Router)
+- Integrate real backend to process appointments
+- Use Tailwind plugins for animations and transitions
+- Improve responsiveness on smaller devices
+
+---
+
+## 👨‍💻 Author
+
+- **CHAOUNI Mouad** - [@Mouad852](https://github.com/Mouad852)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
