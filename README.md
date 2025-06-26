@@ -86,7 +86,7 @@ This project helped reinforce:
 Include screenshots here if needed using Markdown:
 
 ```md
-![Hero Section](./screenshots/hero.png)
+![Hero Section](./Screenshots/Hero section.png)
 ![Appointment Form](./screenshots/appointment.png)
 ```
 
