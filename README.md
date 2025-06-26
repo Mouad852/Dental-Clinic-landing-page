@@ -86,7 +86,7 @@ This project helped reinforce:
 Include screenshots here if needed using Markdown:
 
 
-![Hero Section](Screenshots/Hero section.png)
+![Hero Section](Screenshots/Hero.png)
 ![Appointment Form](Screenshots/BookAppointment.png)
 ![Tips Section](Screenshots/Tips.png)
 ![Footer](Screenshots/Footer.png)
