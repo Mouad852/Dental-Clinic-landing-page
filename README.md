@@ -19,7 +19,7 @@ This is a simple, responsive dental clinic website built using **React** and **T
 
 Watch a short video of the website in action:
 
-[![Watch the demo]]((https://youtu.be/G4Nqytm9gcA))
+[![Watch the demo]](https://youtu.be/G4Nqytm9gcA)
 
 ---
 
