@@ -1,4 +1,4 @@
-# 🦷 Dental Website
+# Dental Clinic Landing Page
 
 This is a simple, responsive dental clinic website built using **React** and **Tailwind CSS**. It was developed to practice modern frontend tools, component-based architecture, and styling with Tailwind.
 
@@ -15,11 +15,9 @@ This is a simple, responsive dental clinic website built using **React** and **T
 
 ---
 
-## 🎥 Live Demo
+## Demo
 
-Watch a short video of the website in action:
-
-[![Watch the demo]](https://youtu.be/G4Nqytm9gcA)
+Watch a [short video walkthrough on YouTube](https://youtu.be/G4Nqytm9gcA).
 
 ---
 
@@ -55,8 +53,8 @@ src/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Mouad852/dental-landing-page.git
-cd dental-landing-page
+git clone https://github.com/Mouad852/Dental-Clinic-landing-page.git
+cd Dental-Clinic-landing-page
 ```
 
 ### 2. Install dependencies
